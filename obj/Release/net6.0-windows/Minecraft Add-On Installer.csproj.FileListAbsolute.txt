@@ -1,0 +1,18 @@
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\bin\Release\net6.0-windows\Minecraft Add-On Installer.exe
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\bin\Release\net6.0-windows\Minecraft Add-On Installer.deps.json
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\bin\Release\net6.0-windows\Minecraft Add-On Installer.runtimeconfig.json
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\bin\Release\net6.0-windows\Minecraft Add-On Installer.dll
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\bin\Release\net6.0-windows\ref\Minecraft Add-On Installer.dll
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\bin\Release\net6.0-windows\Minecraft Add-On Installer.pdb
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft Add-On Installer.csproj.AssemblyReference.cache
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft_Add_On_Installer.Form1.resources
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft_Add_On_Installer.Properties.Resources.resources
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft Add-On Installer.csproj.GenerateResource.cache
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft Add-On Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft Add-On Installer.AssemblyInfoInputs.cache
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft Add-On Installer.AssemblyInfo.cs
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft Add-On Installer.csproj.CoreCompileInputs.cache
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft Add-On Installer.dll
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\ref\Minecraft Add-On Installer.dll
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft Add-On Installer.pdb
+C:\Users\domen\source\repos\Minecraft Add-On Installer\Minecraft Add-On Installer\obj\Release\net6.0-windows\Minecraft Add-On Installer.genruntimeconfig.cache
