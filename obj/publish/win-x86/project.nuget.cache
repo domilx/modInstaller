@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWW6z/PJqW3JUcNVJ0CuPuEkzEcOdNn7IV2wYnS/D8+xSU2AhB/HYvedbO7ucrfCAv0mZqYN0Tma3ir/ljL9cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\domen\\source\\repos\\Minecraft Add-On Installer\\Minecraft Add-On Installer\\Minecraft Add-On Installer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\domen\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.1\\microsoft.netcore.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\domen\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\domen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\domen\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.1\\microsoft.netcore.app.crossgen2.win-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
