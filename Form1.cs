@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using System;
 using System.Net;
+using System.IO;
 namespace Minecraft_Add_On_Installer
 {
     public partial class Form1 : Form
@@ -89,6 +90,7 @@ namespace Minecraft_Add_On_Installer
 
         private void java_Click_1(object sender, EventArgs e)
         {
+            Directory.CreateDirectory("c:\\temp\\");
             WebClient webClient = new WebClient();
             webClient.DownloadFile("https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe", @"c:\temp\javaInstaller.exe");
             Process.Start("C:\\temp\\javaInstaller.exe");
@@ -96,6 +98,7 @@ namespace Minecraft_Add_On_Installer
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Directory.CreateDirectory("c:\\temp\\");
             WebClient webClient = new WebClient();
             webClient.DownloadFile("https://cdn.discordapp.com/attachments/926539742324068382/926959286804951060/OptiFine_1.12.2_HD_U_G5.jar", @"c:\temp\optifine.jar");
             Process.Start("java.exe", "-jar c:\\temp\\optifine.jar");
@@ -103,6 +106,7 @@ namespace Minecraft_Add_On_Installer
 
         private void badlion_Click_1(object sender, EventArgs e)
         {
+            Directory.CreateDirectory("c:\\temp\\");
             WebClient webClient = new WebClient();
             webClient.DownloadFile("https://client-updates-cdn77.badlion.net/Badlion%20Client%20Setup%203.6.4.exe", @"c:\temp\badlion.exe");
             Process.Start("c:\\temp\\badlion.exe");
@@ -110,6 +114,7 @@ namespace Minecraft_Add_On_Installer
 
         private void curseforge_Click_1(object sender, EventArgs e)
         {
+            Directory.CreateDirectory("c:\\temp\\");
             WebClient webClient = new WebClient();
             webClient.DownloadFile("https://cdn.discordapp.com/attachments/926539742324068382/926960589090197585/CurseForge_-_Installer.exe", @"c:\temp\curseforge.exe");
             Process.Start("c:\\temp\\curseforge.exe");
@@ -117,6 +122,7 @@ namespace Minecraft_Add_On_Installer
 
         private void lunar_Click_1(object sender, EventArgs e)
         {
+            Directory.CreateDirectory("c:\\temp\\");
             WebClient webClient = new WebClient();
             webClient.DownloadFile("https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.9.3.exe", @"c:\temp\lunar.exe");
             Process.Start("c:\\temp\\lunar.exe");
@@ -124,6 +130,7 @@ namespace Minecraft_Add_On_Installer
 
         private void forge_Click_1(object sender, EventArgs e)
         {
+            Directory.CreateDirectory("c:\\temp\\");
             WebClient webClient = new WebClient();
             webClient.DownloadFile("https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar", @"c:\temp\forge.jar");
             Process.Start("java.exe", "-jar c:\\temp\\forge.jar");
