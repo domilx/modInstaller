@@ -140,5 +140,13 @@ namespace Minecraft_Add_On_Installer
         {
 
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Directory.CreateDirectory("c:\\temp\\");
+            WebClient webClient = new WebClient();
+            webClient.DownloadFile("https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe", @"c:\temp\java8.exe");
+            Process.Start("c:\\temp\\java8.exe");
+        }
     }
 }

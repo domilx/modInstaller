@@ -37,6 +37,7 @@
             this.closePanel = new System.Windows.Forms.Button();
             this.optifine = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.java8 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -58,7 +59,7 @@
             this.java.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.java.Location = new System.Drawing.Point(44, 207);
             this.java.Name = "java";
-            this.java.Size = new System.Drawing.Size(330, 29);
+            this.java.Size = new System.Drawing.Size(167, 29);
             this.java.TabIndex = 1;
             this.java.Text = "Install Java 17 SDK";
             this.java.UseVisualStyleBackColor = false;
@@ -134,10 +135,23 @@
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
             // 
+            // java8
+            // 
+            this.java8.BackColor = System.Drawing.Color.White;
+            this.java8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.java8.Location = new System.Drawing.Point(210, 207);
+            this.java8.Name = "java8";
+            this.java8.Size = new System.Drawing.Size(164, 29);
+            this.java8.TabIndex = 10;
+            this.java8.Text = "Install Java 8 JRE";
+            this.java8.UseVisualStyleBackColor = false;
+            this.java8.Click += new System.EventHandler(this.button1_Click_1);
+            // 
             // Form1
             // 
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(433, 407);
+            this.Controls.Add(this.java8);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.optifine);
             this.Controls.Add(this.closePanel);
@@ -163,5 +177,6 @@
         private Button closePanel;
         private Button optifine;
         private PictureBox pictureBox1;
+        private Button java8;
     }
 }
